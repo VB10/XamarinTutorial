@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XamarinDers1.Ders5Pages">
+
+	<ContentPage.Padding>
+	<OnPlatform x:TypeArguments="Thickness" iOS="20"></OnPlatform>
+	</ContentPage.Padding>
+
+	<ContentPage.Content>
+
+		<StackLayout HorizontalOptions="Center" VerticalOptions="Center" BindingContext="{x:Reference slider}">
+		<BoxView  Color="Purple" Opacity="{Binding Value}" ></BoxView>
+		<Slider x:Name="slider"></Slider>
+		<Label Text="{Binding Value ,
+						StringFormat='Şuanki değer {0}'}" 
+					Opacity="{Binding Value}"></Label>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

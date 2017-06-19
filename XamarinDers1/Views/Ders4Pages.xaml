@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+	
+	xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XamarinDers1.Ders4Pages">
+
+	  <ContentPage.Padding>
+    <OnPlatform x:TypeArguments="Thickness" iOS="20" >
+    </OnPlatform>
+  </ContentPage.Padding>
+
+
+
+	<ContentPage.Content>
+
+		<StackLayout >
+		<Slider Minimum="0.15" Maximum="200" ValueChanged="Handle_ValueChanged" >
+		</Slider>
+			<Label x:Name="lbltest"></Label>
+
+		</StackLayout>
+
+
+	</ContentPage.Content>
+</ContentPage>

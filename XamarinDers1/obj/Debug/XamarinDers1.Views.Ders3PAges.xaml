@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XamarinDers1.Ders3PAges">
+	<ContentPage.Content>
+
+		<StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" >
+
+			<Entry Text="numara:" Keyboard="Numeric"  HorizontalOptions="FillAndExpand"></Entry>
+			<Entry Placeholder="adınız"  Keyboard="Text"  HorizontalOptions="Fill" VerticalOptions="Fill" TextChanged="Handle_TextChanged"></Entry>
+
+			<Label x:Name="writelabel"></Label>
+
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>
