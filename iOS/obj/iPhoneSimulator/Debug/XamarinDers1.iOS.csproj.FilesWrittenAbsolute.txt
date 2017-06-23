@@ -13,7 +13,7 @@
 /Users/vb/Projects/XamarinDers1/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
 /Users/vb/Projects/XamarinDers1/iOS/bin/iPhoneSimulator/Debug/XamarinDers1.dll
 /Users/vb/Projects/XamarinDers1/iOS/bin/iPhoneSimulator/Debug/XamarinDers1.pdb
-/Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/ibtool/_BundleResourceWithLogicalName.items
-/Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_PartialAppManifest.items
-/Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_BundleResourceWithLogicalName.items
-/Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/optimized/
+/Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/

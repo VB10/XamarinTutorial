@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XamarinDers1.Ders6Pages">
+
+	<ContentPage.Padding>
+	<OnPlatform x:TypeArguments="Thickness" iOS="20"></OnPlatform>
+	</ContentPage.Padding>
+
+
+	<ContentPage.Content>
+
+
+		<ListView x:Name="lstView" HasUnevenRows="true">
+		<ListView.ItemTemplate>
+		<DataTemplate>
+
+		<ViewCell>
+		<StackLayout VerticalOptions="Center"  Orientation="Horizontal" HorizontalOptions="Center">
+
+		<Image Source="{Binding imageUrl}"></Image>
+							<StackLayout>
+								<Label Text="{Binding name}" TextColor="Blue"></Label>
+		<Label Text="{Binding money}" TextColor="Fuchsia"></Label>
+							</StackLayout>
+	
+							
+		</StackLayout>
+		</ViewCell>
+					
+		</DataTemplate>
+		</ListView.ItemTemplate>
+		</ListView>
+	</ContentPage.Content>
+</ContentPage>
