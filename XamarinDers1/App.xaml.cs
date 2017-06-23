@@ -1,5 +1,6 @@
 ﻿using Xamarin.Forms;
 
+
 namespace XamarinDers1
 {
 	public partial class App : Application
@@ -8,7 +9,7 @@ namespace XamarinDers1
 		{
 			InitializeComponent();
 
-			MainPage = new  Ders5Pages();
+			MainPage = new Ders6Pages();
 		}
 
 		protected override void OnStart()

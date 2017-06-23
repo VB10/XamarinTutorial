@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XamarinDers1.Ders2Page">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XamarinDers1.Ders2Page">
+
+	<ContentPage.Padding>
+	<OnPlatform x:TypeArguments="Thickness" iOS="50"></OnPlatform>
+	</ContentPage.Padding>
 	<ContentPage.Content>
+		
+        <StackLayout>
+
+     
+
+		<ListView x:Name="veli" HasUnevenRows="false">
+			<ListView.ItemTemplate>
+				<DataTemplate>
+						    
+			<ImageCell ImageSource="http://lorempixel.com/600/400/sports/1" Text="deneme" Detail="asdasdasdasdasdasd"> </ImageCell>
+
+	
+				</DataTemplate>
+			</ListView.ItemTemplate>
+		</ListView>
+
+               </StackLayout>
+			
 
 	</ContentPage.Content>
 </ContentPage>
