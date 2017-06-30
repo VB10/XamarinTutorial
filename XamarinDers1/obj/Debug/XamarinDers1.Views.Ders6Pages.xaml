@@ -9,7 +9,7 @@
 	<ContentPage.Content>
 
 
-		<ListView x:Name="lstView" HasUnevenRows="true">
+		<ListView x:Name="lstView" HasUnevenRows="true" Margin="10" SeparatorVisibility="None">
 		<ListView.ItemTemplate>
 		<DataTemplate>
 
