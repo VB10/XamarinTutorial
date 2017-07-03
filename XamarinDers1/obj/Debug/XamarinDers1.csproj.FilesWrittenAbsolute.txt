@@ -24,3 +24,7 @@
 /Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.Ders6Pages.xaml.g.cs
 /Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.Ders7Pages.xaml
 /Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.Ders7Pages.xaml.g.cs
+/Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.TestPage.xaml
+/Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.TestPage.xaml.g.cs
+/Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.Ders8Pages.xaml
+/Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.Ders8Pages.xaml.g.cs

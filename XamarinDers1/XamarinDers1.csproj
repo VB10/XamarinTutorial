@@ -48,6 +48,9 @@
     <EmbeddedResource Include="Views\Ders7Pages.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\Ders8Pages.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -76,6 +79,9 @@
     <Compile Include="Model\Personel.cs" />
     <Compile Include="Views\Ders7Pages.xaml.cs">
       <DependentUpon>Ders7Pages.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Ders8Pages.xaml.cs">
+      <DependentUpon>Ders8Pages.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

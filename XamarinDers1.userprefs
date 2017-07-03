@@ -1,10 +1,9 @@
 ﻿<Properties StartupConfiguration="{9F3AEAB3-5F92-4E03-A427-7EE07B2F166B}|Default">
-  <MonoDevelop.Ide.ItemProperties.XamarinDers1.Droid PreferredExecutionTarget="Android.AVD_for_xamarinDevs" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinDers1/Views/Ders7Pages.xaml">
+  <MonoDevelop.Ide.ItemProperties.XamarinDers1.Droid PreferredExecutionTarget="Android.XamarinAndroid" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinDers1/Views/Ders8Pages.xaml">
     <Files>
-      <File FileName="XamarinDers1/Views/Ders7Pages.xaml" Line="14" Column="92" />
-      <File FileName="XamarinDers1/Views/Ders7Pages.xaml.cs" Line="21" Column="31" />
-      <File FileName="XamarinDers1/App.xaml.cs" Line="12" Column="29" />
+      <File FileName="XamarinDers1/Views/Ders8Pages.xaml" Line="20" Column="145" />
+      <File FileName="XamarinDers1/Views/Ders8Pages.xaml.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
