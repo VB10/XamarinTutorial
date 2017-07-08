@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XamarinDers1.Ders9Pages">
+
+	<ContentPage.Padding>
+	<OnPlatform  x:TypeArguments="Thickness" iOS="20"></OnPlatform>
+	</ContentPage.Padding>
+
+	
+	<ContentPage.Content>
+
+
+	<StackLayout VerticalOptions="Center">
+
+			<StackLayout Orientation="Horizontal">
+			<Button HorizontalOptions="Start" FontSize="25"  Text="◀️" Clicked="next_Clicked"></Button>
+
+				<ActivityIndicator  IsRunning="{Binding Source={x:Reference img} , Path=IsLoading}"  HorizontalOptions="Center" ></ActivityIndicator>
+
+				<Button  HorizontalOptions="End" FontSize="25"   Text="▶️" Clicked="back_Clicked"></Button>
+			</StackLayout>
+
+
+			<Image x:Name="img" Source="http://lorempixel.com/400/200/sports" Aspect="Fill"></Image>
+	</StackLayout>
+
+	
+	</ContentPage.Content>
+</ContentPage>

@@ -9,7 +9,7 @@ namespace XamarinDers1
 		{
 			InitializeComponent();
 
-			MainPage = new Ders8Pages();
+			MainPage = new Ders9Pages();
 		}
 
 		protected override void OnStart()

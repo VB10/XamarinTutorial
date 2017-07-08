@@ -17,3 +17,8 @@
 /Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
 /Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
 /Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3.1/optimized/
+/Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/optimized/

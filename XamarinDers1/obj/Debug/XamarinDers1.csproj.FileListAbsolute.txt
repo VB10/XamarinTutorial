@@ -21,4 +21,7 @@
 /Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.Ders5Pages.xaml.g.cs
 /Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.dll
 /Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.pdb
-/Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.Ders6ListPage.xaml.g.cs
+/Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.Ders6Pages.xaml.g.cs
+/Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.Ders7Pages.xaml.g.cs
+/Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.Ders8Pages.xaml.g.cs
+/Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.Ders9.xaml.g.cs
