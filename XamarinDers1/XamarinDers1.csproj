@@ -54,6 +54,12 @@
     <EmbeddedResource Include="Views\Ders9Pages.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\DrawerMenu\DetailsPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\DrawerMenu\MastersPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -89,10 +95,18 @@
     <Compile Include="Views\Ders9Pages.xaml.cs">
       <DependentUpon>Ders9Pages.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Views\DrawerMenu\DetailsPage.xaml.cs">
+      <DependentUpon>DetailsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\DrawerMenu\MastersPage.xaml.cs">
+      <DependentUpon>MastersPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\DrawerMenu\ControlPage.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\" />
     <Folder Include="Model\" />
+    <Folder Include="Views\DrawerMenu\" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">

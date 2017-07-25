@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+	
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XamarinDers1.MastersPage">
+	<ContentPage.Content>
+
+		<StackLayout>
+
+		<Image Source="http://lorempixel.com/400/200/sports"></Image>
+		<Button Text="Eczaneler"></Button>
+			<Button Text="Taksi Durağı"></Button>
+		</StackLayout>
+
+		
+	</ContentPage.Content>
+</ContentPage>
