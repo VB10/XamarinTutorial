@@ -38,3 +38,7 @@
 /Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.DrawerMenu.MastersPage.xaml
 /Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.DrawerMenu.DetailsPage.xaml.g.cs
 /Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.DrawerMenu.MastersPage.xaml.g.cs
+/Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.New_Folder.ControlTab.xaml
+/Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.New_Folder.ControlTab.xaml.g.cs
+/Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.TabMenu.TabControl.xaml
+/Users/vb/Projects/XamarinDers1/XamarinDers1/obj/Debug/XamarinDers1.Views.TabMenu.TabControl.xaml.g.cs

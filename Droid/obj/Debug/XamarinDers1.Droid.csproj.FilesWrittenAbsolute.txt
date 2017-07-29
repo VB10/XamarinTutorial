@@ -54,3 +54,4 @@
 /Users/vb/Projects/XamarinDers1/Droid/bin/Debug/Xamarin.Android.Support.Fragment.dll
 /Users/vb/Projects/XamarinDers1/Droid/bin/Debug/Xamarin.Android.Support.Transition.dll
 /Users/vb/Projects/XamarinDers1/Droid/bin/Debug/Xamarin.Android.Support.v7.Palette.dll
+/Users/vb/Projects/XamarinDers1/Droid/obj/Debug/res/drawable/home.png

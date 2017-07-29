@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TabbedPage
+	xmlns:local="clr-namespace:XamarinDers1"
+	xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XamarinDers1.ControlTab">
+
+	<local:Ders2Page Title="denemes"/>
+	<NavigationPage Title="deneme">
+	<x:Arguments>
+			<local:Ders4Pages/>
+		</x:Arguments>
+	</NavigationPage>
+		
+</TabbedPage>

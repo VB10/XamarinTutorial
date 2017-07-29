@@ -9,7 +9,7 @@ namespace XamarinDers1
 		{
 			InitializeComponent();
 
-			MainPage = new ControlPage();
+			MainPage = new TabControl();
 		}
 
 		protected override void OnStart()

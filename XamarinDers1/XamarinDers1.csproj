@@ -60,6 +60,9 @@
     <EmbeddedResource Include="Views\DrawerMenu\MastersPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\TabMenu\TabControl.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -102,11 +105,15 @@
       <DependentUpon>MastersPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\DrawerMenu\ControlPage.cs" />
+    <Compile Include="Views\TabMenu\TabControl.xaml.cs">
+      <DependentUpon>TabControl.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\" />
     <Folder Include="Model\" />
     <Folder Include="Views\DrawerMenu\" />
+    <Folder Include="Views\TabMenu\" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">

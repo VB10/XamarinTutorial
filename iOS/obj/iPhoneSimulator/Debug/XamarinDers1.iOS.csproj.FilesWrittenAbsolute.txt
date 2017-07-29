@@ -22,3 +22,4 @@
 /Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
 /Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
 /Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/vb/Projects/XamarinDers1/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/home.png
